@@ -108,7 +108,7 @@ Features:
   - Real-time availability tracking
 ```
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/YourUsername/GameHub-Pro)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anassaitouaguerd/Gaming-Club)
 
 </td>
 <td width="50%">
@@ -129,7 +129,7 @@ Features:
   - Real-time balance tracking
 ```
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/YourUsername/NexaBank)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anassaitouaguerd/NexaBank)
 
 </td>
 </tr>
