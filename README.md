@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Ait+Ouaguerd+Anass;Full+Stack+Developer+%7C+QA+Automation+Engineer;Building+Scalable+Applications+%26+Ensuring+Quality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Ait+Ouaguerd+Anass;Full+Stack+Developer+%7C+QA+Automation+Engineer;Building+Scalable+Applications+%26+Ensuring+Quality" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ```typescript
 const anass = {
-    location: "Casablanca, Morocco 🇲🇦",
+    location: "Rabat, Morocco 🇲🇦",
     currentRole: "QA Automation Engineer @ JumpIT",
     education: "UM6P / Youcode - Java/Angular Development",
     passions: ["Clean Code", "Test Automation", "Microservices", "DevOps"],
@@ -205,9 +205,9 @@ graph LR
     C --> D[Code Quality]
     D --> E[Automation]
     E --> F[Continuous Improvement]
-    style A fill:#0CE82B
-    style C fill:#0CE82B
-    style E fill:#0CE82B
+    style A fill:#00D9FF
+    style C fill:#00D9FF
+    style E fill:#00D9FF
 ```
 
 </div>
@@ -268,7 +268,7 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=0CE82B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -278,7 +278,6 @@ graph LR
 *"I debug in my sleep and dream in code! When I'm not automating tests, I'm probably thinking about how to automate more tests 😄"*
 
 </div>
-
 
 <div align="center">
   
