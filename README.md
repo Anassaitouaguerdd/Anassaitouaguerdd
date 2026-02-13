@@ -193,33 +193,43 @@ Features:
 </div>
 
 ---
-
 ## 🎓 Methodologies & Best Practices
 
 <div align="center">
 
+### 🔄 Development Workflow
 ```mermaid
 graph LR
-    A[Agile Scrum] --> B[BDD/TDD]
-    B --> C[CI/CD]
-    C --> D[Code Quality]
-    D --> E[Automation]
-    E --> F[Continuous Improvement]
-    style A fill:#00D9FF
-    style C fill:#00D9FF
-    style E fill:#00D9FF
+    A[🎯 Agile Scrum] --> B[📝 BDD/TDD]
+    B --> C[🚀 CI/CD]
+    C --> D[✨ Code Quality]
+    D --> E[🤖 Automation]
+    E --> F[📈 Continuous Improvement]
+    
+    style A fill:#2196F3,stroke:#1976D2,stroke-width:3px,color:#fff
+    style B fill:#424242,stroke:#1976D2,stroke-width:2px,color:#fff
+    style C fill:#2196F3,stroke:#1976D2,stroke-width:3px,color:#fff
+    style D fill:#424242,stroke:#1976D2,stroke-width:2px,color:#fff
+    style E fill:#2196F3,stroke:#1976D2,stroke-width:3px,color:#fff
+    style F fill:#424242,stroke:#1976D2,stroke-width:2px,color:#fff
 ```
 
 </div>
 
+---
+
 <div align="center">
 
-| 🔄 Methodology | 📋 Practices |
-|----------------|-------------|
-| **Agile Scrum** | Daily standups, Sprint planning, Retrospectives |
-| **BDD** | Gherkin scenarios, 3 Amigos sessions, Living documentation |
-| **TDD** | Unit testing, Integration testing, Test coverage |
-| **CI/CD** | Automated pipelines, Continuous testing, GitLab CI |
+### 📚 Practices & Principles
+
+</div>
+
+| 🔄 **Methodology** | 📋 **Key Practices** | 🎯 **Benefits** |
+|:------------------:|:---------------------|:----------------|
+| **Agile Scrum** | • Daily standups<br/>• Sprint planning<br/>• Retrospectives | Faster delivery, Team collaboration |
+| **BDD** | • Gherkin scenarios<br/>• 3 Amigos sessions<br/>• Living documentation | Clear requirements, Shared understanding |
+| **TDD** | • Unit testing<br/>• Integration testing<br/>• Test coverage | Better code quality, Fewer bugs |
+| **CI/CD** | • Automated pipelines<br/>• Continuous testing<br/>• GitLab CI | Faster releases, Early bug detection |
 
 </div>
 
